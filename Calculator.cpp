@@ -1,5 +1,5 @@
 #include <iostream>
-#include <iomanip> // For formatting the above operation
+#include <iomanip>
 
 int main() {
     double num1, num2;
