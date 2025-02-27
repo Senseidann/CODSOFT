@@ -57,7 +57,7 @@ int main() {
         std::cout << "5. Exit\n";
         std::cout << "Enter your choice: ";
         std::cin >> choice;
-        std::cin.ignore(); // Consume newline character
+        std::cin.ignore();
 
         switch (choice) {
             case 1: {
